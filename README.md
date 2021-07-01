@@ -3,18 +3,18 @@
 
 #### To run the app you need to do:
 
-### `Install dependencies`:
+#### `Install dependencies`:
 ```
 npm install
 ```
 To install all the necessary dependencies of the project.
 
-### `To run on Android`:
+#### `To run on Android`:
 ```
 npm run android
 ```
 
-### `To run on iOS`:
+#### `To run on iOS`:
 ```
 npm run ios
 ```
