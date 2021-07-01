@@ -3,15 +3,15 @@
 
 #### To run the app you need to do:
 
-### Install dependencies:
-#### `npm install`
+### `Install dependencies`:
+#### ```npm install```
 To install all the necessary dependencies of the project.
 
-### To run on Android:
-#### `npm run android`
+### `To run on Android`:
+#### ```npm run android```
 
-### To run on iOS:
-#### `npm run ios`
+### `To run on iOS`:
+#### ```npm run ios```
 
 > ###### Note: If you don't have the React-Native CLI running with npx, you need to remove the npx command from the package.json.
 
